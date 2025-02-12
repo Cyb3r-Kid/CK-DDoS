@@ -12,6 +12,22 @@ Cyber Kid DDoS is an educational pentesting tool designed for stress testing and
 - Advanced UI with Real-Time Logging
 
 ## Installation
+$ pkg install python2
+
+$ pkg install git
+
+$ pkg install figlet
+
+$ cd CK-DDOS.py
+$ chmod +x CK-DDOS.py
+
+$ python2 CK-DDOS.py
+To Run
+
+$ cd CK-DDOS.py
+
+$ python2 CK-DDOS.py
+
 ### Prerequisites
 - Python 3.x
 - Required Modules:
